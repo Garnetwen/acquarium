@@ -1,20 +1,24 @@
 i want to create a **playground** like website
 a website that evolves over time: the weather will change throughout the day.
 instead of a garden, it is an acquarium.
+each user will have different fishs coming out from water.
 
 different for each use: everyday, user can open a drift bottle contain different items.
 My inspiration is from 
 1. animal restaurant
-2. acqurarium 
+2. **acqurarium ratings** from Bilibili [ I learnt most of the knowledge from there]
+3. DREDGE a game on steam (I love it!)
 
-3. a deserted dock, where the user can collect fishs and put into their aquarium.
+Purpose of this game: **trying to avoid problems occured in acquarium**
+
+5. a deserted dock, where the user can collect fishs and put into their aquarium.
    Potential features
-4. in their aquarium, they can collect fish and customize their aquarium(background color, sand color, wood).
-5. share their acquarium screenshot
-6. 
-
-7. Aesthetic: 1. main page: David Hockney scrabble game photography 2. drift bottle: ASCII 3. zine-like 
+6. in their aquarium, they can collect fish and customize their aquarium(background color, sand color, wood).
+7. share their acquarium screenshot
 8. 
+
+9. Aesthetic: 1. main page: David Hockney scrabble game photography 2. drift bottle: ASCII 3. zine-like 
+10. 
 **reference**:
 1.https://myaquariumbuilder.com/ （this website is a real-life aquarium, for reference
 
