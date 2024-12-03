@@ -13,3 +13,4 @@ Sitemap:
 - praying site
   1.throwing coin (a name) page
   2.result page
+![sitemap](https://github.com/user-attachments/assets/3b9d7d88-0344-4f2f-832d-571310c70fcb)
