@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="/script.js"></script>
+    <link rel="stylesheet" href="/style.css" />
+    <title>fishingSite</title>
+  </head>
+  <body>
+    <div class="fishingButton">
+      <button type="button" class="btn" onclick="openPopup()">fishing</button>
+    </div>
+    <div class="fishPopup" id="fishPage">
+      <p id="name"><%= doc.name%></p>
+      <p id="descriptions"><%= doc.descriptions %></p>
+      <form
+        method="POST"
+        action="/collectfish"
+        enctype="multipart/form-data"
+        onsubmit="closePopup()"
+      >
+        <input type="hidden" name="fishInput" id="fishinfo" />
+        <button id="collectbtn">collect it</button>
+      </form>
+    </div>
+  </body>
+</html>

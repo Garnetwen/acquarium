@@ -1,4 +1,4 @@
-{"_id":"id1","name":"dolphin","descriptions":"i am a mammal","size":"normally 300m","status":"fresh"}
-{"_id":"id2","name":"shark","descriptions":"i am a shark","size":"normally 100m","status":"fresh"}
-{"_id":"id3","name":"fish","descriptions":"i am a fish","size":"normally 10m","status":"fresh"}
-{"_id":"id4","name":"babyshark","descriptions":"i am a bb shark","size":"normally 1000m","status":"fresh"}
+{"_id":"id1","name":"dolphin","descriptions":"i am a mammal","size":"normally 300m","status":"fresh","image":"/uploads/ComfyUI_00001_.png"}
+{"_id":"id2","name":"shark","descriptions":"i am a shark","size":"normally 100m","status":"fresh","image":"/uploads/ComfyUI_00002_.png"}
+{"_id":"id3","name":"fish","descriptions":"i am a fish","size":"normally 10m","status":"fresh","image":"/uploads/ComfyUI_00003_.png"}
+{"_id":"id4","name":"babyshark","descriptions":"i am a bb shark","size":"normally 1000m","status":"fresh","image":"/uploads/ComfyUI_00004_.png"}
